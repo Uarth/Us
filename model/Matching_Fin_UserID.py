@@ -6,7 +6,7 @@ import ast
 from scipy.spatial.distance import cosine
 import Explain_Match
 import logging
-
+import pickle
 
 
 # download table as DataFrame from DB
